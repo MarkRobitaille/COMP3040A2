@@ -3,7 +3,7 @@
 
 ## **EDUCATION**  
 ### **Bachelor of Science, Major in Computer Science (Co-op)** - _2011-2012, 2016-Present_  
-University of Manitoba  
+**University of Manitoba**  
 * Specialization: Human-Computer Interaction and Computer Graphics
 * Expected Minor in Psychology
 
