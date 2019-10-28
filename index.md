@@ -29,7 +29,7 @@
 **Agriculture and Agri-Food Canada**  
 * Utilized Vue.js and related libraries to develop a reactive single page application used for project management internally.  
 * Developed a suite of unit tests for Vue.js components using Vue Test Utils and Jest.  
-* Collaborated and communicated with team members to find solutions to problems.  
+* Connected with a Grails server to interact with an Oracle database.
 
 ### **Team Leader** - _November 2009-November 2016_  
 **Cineplex**
@@ -43,3 +43,4 @@
 ## **EXTRACURRICULAR**  
 ### **Executive in CSSA (Computer Science Students’ Association)**  
 * Coordinated with a team to plan and host events (e.g. CSSA Game Jam, CS Mixer, etc.).
+* Built prototype website for CSSA using Vue.js and Bootstrap-Vue.
