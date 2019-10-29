@@ -43,12 +43,12 @@ GitHub Pages is a feature offered by GitHub. It provides users with the ability 
 ---  
 ## Prerequisites
 
-Here's what you'll need before continuing:
+Here is what you will need before continuing:
 1. An up-to-date resume.
 2. A text editor of your choice. You should preferably use an editor that has Markdown preview functionality.
     *  Note:  This README was written on Visual Studio Code with the added extension GFM Preview. If you do not want to download any software, there are online Markdown editors like [Markdown Live Preview](https://markdownlivepreview.com/).
-3. An account on GitHub. You can sign up for an account [here](www.github.com) if you don't have one.
-    * Note: Be sure to select an appropriate username if you're creating an account, as it will be a part of your URL when you host your resume.
+3. An account on GitHub. You can sign up for an account [here](www.github.com) if you do not have one.
+    * Note: Be sure to select an appropriate username if you are creating an account, as it will be a part of your URL when you host your resume.
 
 --- 
 ## Instructions
@@ -86,7 +86,7 @@ The first section of these instructions will walk you through converting your ex
     * List Item 2
     * List Item 3
     ```
-7. To create any nested lists, add a tab at the front of the bullet you're adding.
+7. To create any nested lists, add a tab at the front of the bullet you are adding.
     ```
     * List Item 1
         * Inner List Item 1
@@ -117,7 +117,7 @@ Now that you have a properly formatted Markdown resume to work with, this sectio
 ![Adding](https://i.imgur.com/GNxIngl.gif)
 
 14. Copy and paste your Markdown-formatted resume into the text area.
-    * Note: Later you will be adding your name in your theme's header. Don't copy and paste the header with your name from your Markdown-formatted resume.
+    * Note: Later you will be adding your name in your theme's header. Don not copy and paste the header with your name from your Markdown-formatted resume.
 15. Scroll to the bottom and click on the "Commit new file" button.  
 
 
