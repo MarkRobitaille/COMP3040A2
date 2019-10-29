@@ -153,7 +153,7 @@ Result: Your resume's webpage should be finished and ready to show off. You can 
 If you are curious about learning more than what was covered here, feel free to read some of the following:
 
 * [GitHub's Markdown Page](https://help.github.com/en/github/writing-on-github)
-* [Markdown CheatSheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 * [Markdown Guide](https://www.markdownguide.org/)
 * [Markdown Tutorial](https://www.markdowntutorial.com/)
 * [GitHub Pages Documentation](https://help.github.com/en/github/working-with-github-pages)
