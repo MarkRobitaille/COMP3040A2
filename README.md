@@ -105,7 +105,7 @@ Now that you have a properly formatted Markdown resume to work with, this sectio
 
 8. Log in to your GitHub account.  
 9. Create a new repository by hitting the green button labeled "New".  
-10. Enter the Repository name as "_yourusername_.github.io". 
+10. Enter the Repository name as "_`<yourusername>`_.github.io". 
 
 ![New Repository Screen](https://i.imgur.com/Wb3ms4b.png)
 
@@ -121,7 +121,7 @@ Now that you have a properly formatted Markdown resume to work with, this sectio
 16. Scroll to the bottom and click on the "Commit new file" button.  
 
 
-Result: Your resume is now hosted on GitHub in a repository. A basic version of your resume is now accessible via https://_yourusername_.github.io/.
+Result: Your resume is now hosted on GitHub in a repository. A basic version of your resume is now accessible via https://_`<yourusername>`_.github.io/.
 
 ### Customizing Your Page's Appearance  
 
@@ -138,14 +138,14 @@ Finally, this section will cover some basic appearance settings to make your res
 22. Go to the "Code" tab of your repository. There should now be a file listed in your repository named _config.yml.
 23. Click on _config.yml to open it.
 24. Click on the pencil icon to edit the _config.yml file.
-25. Add your name as the title by adding "title: _Your full name_" on a new line.
-26. Add a description under your name by adding "description: _Your description_" on a new line.
+25. Add your name as the title by adding "title: _`<Your full name>`_" on a new line.
+26. Add a description under your name by adding "description: _`<Your description>`_" on a new line.
 
 ![Set Config File](https://i.imgur.com/LeyEGI2.gif)
 
 26. Scroll to the bottom and click "Commit changes" to save the file.
 
-Result: Your resume's webpage should be finished and ready to show off. You can access it via https://_yourusername_.github.io/.
+Result: Your resume's webpage should be finished and ready to show off. You can access it via https://_`<yourusername>`_.github.io/.
 
 ---
 ## More Resources
@@ -178,6 +178,6 @@ The theme used in my Resume was [Slate](https://markrobitaille.github.io/). Than
 
 > Yes, you can use a custom domain name for your resume's webpage. You will need to set the custom domain name in the GitHub Pages section of your resume's repository. Additionally, you'll need to change the settings on your domain name provider's website. For more details on how to accomplish this, [read this article](https://medium.com/@hossainkhan/using-custom-domain-for-github-pages-86b303d3918a).
 
-### What do I do if I already have a website hosted on https://_myusername_.github.io?
+### What do I do if I already have a website hosted on https://_`<myusername>`_.github.io?
 
-> If your default GitHub Pages URL is already being used, you can name your branch whatever you prefer. For example, you could name the branch "Resume". In your "Resume" repository, go to the settings. In the GitHub Pages section, you can enable the webpage by changing the branch used from "None" to "Master branch". Now you can access your resume webpage via "https://_yourusername_.github.io/Resume".
+> If your default GitHub Pages URL is already being used, you can name your branch whatever you prefer. For example, you could name the branch "Resume". In your "Resume" repository, go to the settings. In the GitHub Pages section, you can enable the webpage by changing the branch used from "None" to "Master branch". Now you can access your resume webpage via "https://_`<yourusername>`_.github.io/Resume".
