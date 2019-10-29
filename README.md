@@ -47,7 +47,7 @@ Here is what you will need before continuing:
 1. An up-to-date resume.
 2. A text editor of your choice. My recommendation is to use an editor that has Markdown preview functionality.
     *  Note:  This README was written on [Visual Studio Code](https://code.visualstudio.com/) with the extension GFM Preview. If you do not want to download any software, there are online Markdown editors like [Markdown Live Preview](https://markdownlivepreview.com/).
-3. An account on GitHub. You can sign up for an account [here](www.github.com) if you do not have one.
+3. An account on GitHub. You can sign up for an account [here](https://github.com/join?source=header-home) if you do not have one.
     * Note: Be sure to select an appropriate username if you are creating an account, as it will be a part of your URL when you host your resume.
 
 --- 
