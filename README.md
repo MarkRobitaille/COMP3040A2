@@ -1,4 +1,4 @@
-# How to Host Your Resume Using GitHub Pages, Jekyll, and Markdown
+# How to Host Your Resume Using Markdown, GitHub Pages, and Jekyll
 
 Welcome to this guide on hosting your Resume online using GitHub Pages and Markdown. 
 
@@ -11,13 +11,13 @@ Sections in this guide:
     2. [Adding Your Resume to GitHub](#adding-your-resume-to-github)
     3. [Customizing Your Page's Appearance](#customizing-your-pages-appearance)
 5. [More Resources](#more-resources)
-6. [Authors and Acknowledgment](#authors-and-acknowledgment)
+6. [Authors and Acknowledgments](#authors-and-acknowledgments)
 7. [FAQs](#faqs)
 
 ---
 ## Audience  
 
-This guide is intended for people who are new to using GitHub Pages, Jekyll, and Markdown. Experience with GitHub isn't required, but it will make the process of following the instructions easier. This guide will have you creating repositories and interacting with GitHub's website. 
+This guide is intended for people who are new to using Markdown, GitHub Pages, and Jekyll. Experience with GitHub is not required, but it is recommended. Familiarity with the GitHub's web interface will make the process faster.
 
 ---  
 ## Getting Started
@@ -26,27 +26,27 @@ Before getting to the instructions, I would recommend you read over some termino
 
 ### Markdown
 
-Markdown is a markup language used to format text. It has become the most popular way to format READMEs and is widely used online.  
+[Markdown](https://en.wikipedia.org/wiki/Markdown) is a markup language used to format text. It has become the most popular way to format READMEs and is widely used online.  
 
 ### Jekyll
 
-Jekyll is a program that creates static webpages from text files formatted in markup languages like Markdown. You can customize the output appearance by applying different themes.
+[Jekyll](https://jekyllrb.com/) is a program that creates static webpages from text files formatted in markup languages like Markdown. You can customize the output appearance by applying different themes.
 
 ### GitHub
 
-GitHub is a website that provides hosting for users' project repositories. GitHub provides users with the functionality to manage their projects using version control.
+[GitHub](https://github.com/) is a website that provides hosting for users' project repositories. GitHub provides users with the functionality to manage their projects using version control.
 
 ### GitHub Pages
 
-GitHub Pages is a feature offered by GitHub. It provides users with the ability to freely host static webpages. GitHub Pages is fully integrated with Jekyll, meaning that the process of converting a Markdown file to a webpage is simple and straightforward.
+[GitHub Pages](https://pages.github.com/) is a feature offered by GitHub. It provides users with the ability to freely host static webpages. GitHub Pages is fully integrated with Jekyll, meaning that the process of converting a Markdown file to a webpage is simple and straightforward.
 
 ---  
 ## Prerequisites
 
 Here is what you will need before continuing:
 1. An up-to-date resume.
-2. A text editor of your choice. You should preferably use an editor that has Markdown preview functionality.
-    *  Note:  This README was written on Visual Studio Code with the added extension GFM Preview. If you do not want to download any software, there are online Markdown editors like [Markdown Live Preview](https://markdownlivepreview.com/).
+2. A text editor of your choice. My recommendation is to use an editor that has Markdown preview functionality.
+    *  Note:  This README was written on [Visual Studio Code](https://code.visualstudio.com/) with the extension GFM Preview. If you do not want to download any software, there are online Markdown editors like [Markdown Live Preview](https://markdownlivepreview.com/).
 3. An account on GitHub. You can sign up for an account [here](www.github.com) if you do not have one.
     * Note: Be sure to select an appropriate username if you are creating an account, as it will be a part of your URL when you host your resume.
 
@@ -105,7 +105,7 @@ Now that you have a properly formatted Markdown resume to work with, this sectio
 
 8. Log in to your GitHub account.  
 9. Create a new repository by hitting the green button labeled "New".  
-10. Enter the Repository name as "_`<yourusername>`_.github.io". 
+10. Enter the Repository name as "_`<YourUsername>`_.github.io". 
 
 ![New Repository Screen](https://i.imgur.com/Wb3ms4b.png)
 
@@ -121,7 +121,7 @@ Now that you have a properly formatted Markdown resume to work with, this sectio
 16. Scroll to the bottom and click on the "Commit new file" button.  
 
 
-Result: Your resume is now hosted on GitHub in a repository. A basic version of your resume is now accessible via https://_`<yourusername>`_.github.io/.
+Result: Your resume is now hosted on GitHub in a repository. A basic version of your resume is now accessible via https://_`<YourUsername>`_.github.io/.
 
 ### Customizing Your Page's Appearance  
 
@@ -145,7 +145,7 @@ Finally, this section will cover some basic appearance settings to make your res
 
 26. Scroll to the bottom and click "Commit changes" to save the file.
 
-Result: Your resume's webpage should be finished and ready to show off. You can access it via https://_`<yourusername>`_.github.io/.
+Result: Your resume's webpage should be finished and ready to show off. You can access it via https://_`<YourUsername>`_.github.io/.
 
 ---
 ## More Resources
@@ -156,14 +156,17 @@ If you are curious about learning more than what was covered here, feel free to 
 * [Markdown CheatSheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 * [Markdown Guide](https://www.markdownguide.org/)
 * [Markdown Tutorial](https://www.markdowntutorial.com/)
+* [GitHub Pages Documentation](https://help.github.com/en/github/working-with-github-pages)
 * [Mike Dane's Jekyll Video Tutorial](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB)
 
 ---
-## Authors and Acknowledgment
+## Authors and Acknowledgments
+
+This guide was written by [Mark Robitaille](https://github.com/MarkRobitaille).
 
 Thank you to the following people who helped with editing:
-* Daniel Gold  
-* Zack Holmberg  
+* [Daniel Gold](https://github.com/goldDaniel)  
+* [Zack Holmberg](https://github.com/zackholmberg)  
 
 The theme used in my Resume was [Slate](https://markrobitaille.github.io/). Thank you to [all the contributors](https://github.com/pages-themes/slate/graphs/contributors) that worked on the theme.
 
@@ -178,6 +181,6 @@ The theme used in my Resume was [Slate](https://markrobitaille.github.io/). Than
 
 > Yes, you can use a custom domain name for your resume's webpage. You will need to set the custom domain name in the GitHub Pages section of your resume's repository. Additionally, you'll need to change the settings on your domain name provider's website. For more details on how to accomplish this, [read this article](https://medium.com/@hossainkhan/using-custom-domain-for-github-pages-86b303d3918a).
 
-### What do I do if I already have a website hosted on https://_`<myusername>`_.github.io?
+### What do I do if I already have a website hosted on https://_`<MyUsername>`_.github.io?
 
-> If your default GitHub Pages URL is already being used, you can name your branch whatever you prefer. For example, you could name the branch "Resume". In your "Resume" repository, go to the settings. In the GitHub Pages section, you can enable the webpage by changing the branch used from "None" to "Master branch". Now you can access your resume webpage via "https://_`<yourusername>`_.github.io/Resume".
+> If your default GitHub Pages URL is already being used, you can name your branch whatever you prefer. For example, you could name the branch "Resume". In your "Resume" repository, go to the settings. In the GitHub Pages section, you can enable the webpage by changing the branch used from "None" to "Master branch". Now you can access your resume webpage via "https://_`<YourUsername>`_.github.io/Resume".
