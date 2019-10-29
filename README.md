@@ -137,7 +137,7 @@ Finally, this section will cover some basic appearance settings to make your res
 21. Confirm your choice by hitting the "Select theme" button.
 22. Go to the "Code" tab of your repository. There should now be a file listed in your repository named _config.yml.
 23. Click on _config.yml to open it.
-24. Click on the pencil icon to edit the _config.yml file.
+24. Click on the pencil icon on the right side of the page to edit the _config.yml file.
 25. Add your name as the title by adding "title: _`<Your full name>`_" on a new line.
 26. Add a description under your name by adding "description: _`<Your description>`_" on a new line.
 
