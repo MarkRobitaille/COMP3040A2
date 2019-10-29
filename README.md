@@ -1,6 +1,6 @@
 # How to Host Your Resume Using Markdown, GitHub Pages, and Jekyll
 
-Welcome to this guide on hosting your Resume online using GitHub Pages and Markdown. 
+Welcome to this guide on hosting your resume online using GitHub Pages and Markdown. 
 
 Sections in this guide:
 1. [Audience](#audience)
@@ -61,10 +61,10 @@ The first section of these instructions will walk you through converting your ex
 
 1. Get the raw text from your resume.
     * Note: Depending on your resume's layout this may be a long process.
-2. Copy your resume's raw text into your preferred editor.
-3. Fix any spacing issues that occur previewing your Markdown.
-    * Note: To write on a new line in Markdown you need to add two spaces at the end of the line or divide your lines with an empty line between them. Since they both provide different results, you can use them to space your resume out as desired. 
-4. Create headers for the sections of the resume. You can do headers by adding `#` followed by a space and the header name. You can add one to six `#` symbols per header. The more `#` symbols you add, the smaller your header will become.  
+2. Copy your resume's raw text into your preferred text editor.
+3. Fix any spacing issues that occur when previewing your Markdown.
+    * Note: To write on a new line in Markdown you need to add two spaces at the end of the line or divide your lines with an empty line between them. Since they both provide different results, you can use both techniques to space your resume out as desired. 
+4. Create headers for the sections of the resume. You can format headers by adding `#` followed by a space and the header name. You can add one to six `#` symbols per header. The more `#` symbols you add, the smaller your header will become.  
     ```
     # Biggest Header
     ## Big Header
@@ -80,7 +80,7 @@ The first section of these instructions will walk you through converting your ex
     ## Section Header
     ### Subsection Header
     ```
-6. Add bullet points to areas in your resume that need them. You can do this by adding a `*` followed by a space and the text you want in the bullet. 
+6. Add bullet points to areas in your resume that need them. You can do this by adding a `*` symbol followed by a space and the text you want in the bullet. 
     ```
     * List Item 1
     * List Item 2
@@ -97,7 +97,7 @@ The first section of these instructions will walk you through converting your ex
 
 Result: You now have a resume formatted in Markdown.
 
-If you are struggling with converting your resume to Markdown or want to do more than specified here, I recommend going through [this](https://www.markdowntutorial.com/) tutorial on Markdown. It only takes about 10 minutes to finish.
+If you are struggling with converting your resume to Markdown or want to do more than specified here, I recommend going through [this](https://www.markdowntutorial.com/) tutorial on Markdown. It only takes around 10 minutes to finish.
 
 ### Adding Your Resume to GitHub
 
@@ -111,13 +111,13 @@ Now that you have a properly formatted Markdown resume to work with, this sectio
 
 11. Leave the repository set to Public.  
 12. Click the "Create repository" button.  
-13. Click on the link on the Quick Setup that states "creating a new file".  
+13. Click the link on the Quick Setup that states "creating a new file".  
 14. Name the new file "index.md".  
 
 ![Adding](https://i.imgur.com/GNxIngl.gif)
 
 15. Copy and paste your Markdown-formatted resume into the text area.
-    * Note: Later you will be adding your name in your theme's header. Do not copy and paste the header with your name from your Markdown-formatted resume.
+    * Note: Later you will be adding your name in your theme's header. Do not include your name's header from your Markdown-formatted resume.
 16. Scroll to the bottom and click on the "Commit new file" button.  
 
 
@@ -137,7 +137,7 @@ Finally, this section will cover some basic appearance settings to make your res
 21. Confirm your choice by hitting the "Select theme" button.
 22. Go to the "Code" tab of your repository. There should now be a file listed in your repository named _config.yml.
 23. Click on _config.yml to open it.
-24. Click on the pencil icon on the right side of the page to edit the _config.yml file.
+24. Click the pencil icon located on the right side of the page to edit the _config.yml file.
 25. Add your name as the title by adding "title: _`<Your full name>`_" on a new line.
 26. Add a description under your name by adding "description: _`<Your description>`_" on a new line.
 
