@@ -168,7 +168,7 @@ Thank you to the following people who helped with editing:
 * [Daniel Gold](https://github.com/goldDaniel)  
 * [Zack Holmberg](https://github.com/zackholmberg)  
 
-The theme used in my Resume was [Slate](https://markrobitaille.github.io/). Thank you to [all the contributors](https://github.com/pages-themes/slate/graphs/contributors) that worked on the theme.
+The theme used in my Resume was [Slate](https://github.com/pages-themes/slate). Thank you to [all the contributors](https://github.com/pages-themes/slate/graphs/contributors) that worked on the theme.
 
 ---
 ## FAQs
