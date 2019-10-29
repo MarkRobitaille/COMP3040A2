@@ -103,49 +103,49 @@ If you are struggling with converting your resume to Markdown or want to do more
 
 Now that you have a properly formatted Markdown resume to work with, this section will cover the process of adding your resume to your GitHub account and setting it up on GitHub Pages.  
 
-7. Log in to your GitHub account.  
-8. Create a new repository by hitting the green button labeled "New".  
-9. Enter the Repository name as "_yourusername_.github.io". 
+8. Log in to your GitHub account.  
+9. Create a new repository by hitting the green button labeled "New".  
+10. Enter the Repository name as "_yourusername_.github.io". 
 
 ![New Repository Screen](https://i.imgur.com/Wb3ms4b.png)
 
-10. Leave the repository set to Public.  
-11. Click the "Create repository" button.  
-12. Click on the link on the Quick Setup that states "creating a new file".  
-13. Name the new file "index.md".  
+11. Leave the repository set to Public.  
+12. Click the "Create repository" button.  
+13. Click on the link on the Quick Setup that states "creating a new file".  
+14. Name the new file "index.md".  
 
 ![Adding](https://i.imgur.com/GNxIngl.gif)
 
-14. Copy and paste your Markdown-formatted resume into the text area.
-    * Note: Later you will be adding your name in your theme's header. Don not copy and paste the header with your name from your Markdown-formatted resume.
-15. Scroll to the bottom and click on the "Commit new file" button.  
+15. Copy and paste your Markdown-formatted resume into the text area.
+    * Note: Later you will be adding your name in your theme's header. Do not copy and paste the header with your name from your Markdown-formatted resume.
+16. Scroll to the bottom and click on the "Commit new file" button.  
 
 
-Result: Your resume is now hosted on GitHub in a repository. A basic version of your resume is now accessible via http://_yourusername_.github.io/.
+Result: Your resume is now hosted on GitHub in a repository. A basic version of your resume is now accessible via https://_yourusername_.github.io/.
 
 ### Customizing Your Page's Appearance  
 
 Finally, this section will cover some basic appearance settings to make your resume fit your style.
 
-16. In your resume's repository, go to the Settings page.
-17. Scroll to the GitHub Pages section of the settings. It should be listed near the bottom.
+17. In your resume's repository, go to the Settings page.
+18. Scroll to the GitHub Pages section of the settings. It should be listed near the bottom.
 
 ![Set Theme](https://i.imgur.com/NstQaKS.gif)
 
-18. Click on the "Choose a theme" button.
-19. Find a theme that you like.
-20. Confirm your choice by hitting the "Select theme" button.
-21. Go to the "Code" tab of your repository. There should now be a file listed in your repository named _config.yml.
-22. Click on _config.yml to open it.
-23. Click on the pencil icon to edit the _config.yml file.
-24. Add your name as the title by adding "title: _Your full name_" on a new line.
-25. Add a description under your name by adding "description: _Your description_" on a new line.
+19. Click on the "Choose a theme" button.
+20. Find a theme that you like.
+21. Confirm your choice by hitting the "Select theme" button.
+22. Go to the "Code" tab of your repository. There should now be a file listed in your repository named _config.yml.
+23. Click on _config.yml to open it.
+24. Click on the pencil icon to edit the _config.yml file.
+25. Add your name as the title by adding "title: _Your full name_" on a new line.
+26. Add a description under your name by adding "description: _Your description_" on a new line.
 
 ![Set Config File](https://i.imgur.com/LeyEGI2.gif)
 
 26. Scroll to the bottom and click "Commit changes" to save the file.
 
-Result: Your resume's webpage should be finished and ready to show off. You can access it via http://_yourusername_.github.io/.
+Result: Your resume's webpage should be finished and ready to show off. You can access it via https://_yourusername_.github.io/.
 
 ---
 ## More Resources
