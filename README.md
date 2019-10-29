@@ -170,14 +170,14 @@ The theme used in my Resume was [Slate](https://markrobitaille.github.io/). Than
 ---
 ## FAQs
 
-### Question: What do I do if my original resume has a complex layout?
+### What do I do if my original resume has a complex layout?
 
-> Answer: If your original resume has a complex layout, I recommend simplifying it before converting it to Markdown. Having your resume in a simple format that is grouped by headings will make it easier to convert to Markdown. It will also give you the opportunity to evaluate and update the content of your resume.
+> If your original resume has a complex layout, I recommend simplifying it before converting it to Markdown. Having your resume in a simple format that is grouped by headings will make it easier to convert to Markdown. It will also give you the opportunity to evaluate and update the content of your resume.
 
-### Question: Can I use a custom domain name for my resume's webpage?
+### Can I use a custom domain name for my resume's webpage?
 
-> Answer: Yes, you can use a custom domain name for your resume's webpage. You will need to set the custom domain name in the GitHub Pages section of your resume's repository. Additionally, you'll need to change the settings on your domain name provider's website. For more details on how to accomplish this, [read this article](https://medium.com/@hossainkhan/using-custom-domain-for-github-pages-86b303d3918a).
+> Yes, you can use a custom domain name for your resume's webpage. You will need to set the custom domain name in the GitHub Pages section of your resume's repository. Additionally, you'll need to change the settings on your domain name provider's website. For more details on how to accomplish this, [read this article](https://medium.com/@hossainkhan/using-custom-domain-for-github-pages-86b303d3918a).
 
-### Question: What do I do if I already have a website hosted on https://_myusername_.github.io?
+### What do I do if I already have a website hosted on https://_myusername_.github.io?
 
-> Answer: If your default GitHub Pages URL is already being used, you can name your branch whatever you prefer. For example, you could name the branch "Resume". In your "Resume" repository, go to the settings. In the GitHub Pages section, you can enable the webpage by changing the branch used from "None" to "Master branch". Now you can access your resume webpage via "https://_yourusername_.github.io/Resume".
+> If your default GitHub Pages URL is already being used, you can name your branch whatever you prefer. For example, you could name the branch "Resume". In your "Resume" repository, go to the settings. In the GitHub Pages section, you can enable the webpage by changing the branch used from "None" to "Master branch". Now you can access your resume webpage via "https://_yourusername_.github.io/Resume".
