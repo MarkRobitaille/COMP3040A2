@@ -87,7 +87,7 @@ The first section of these instructions will walk you through converting your ex
     * List Item 2
     * List Item 3
     ```
-7. To create any nested lists, add a tab at the front of the bullet you are adding.
+7. Create nested lists by adding a tab to the front of any bullet.
     ```
     * List Item 1
         * Inner List Item 1
@@ -138,9 +138,9 @@ Finally, this section will cover some basic appearance settings to make your res
 21. Confirm your choice by hitting the "Select theme" button.
 22. Go to the "Code" tab of your repository. There should now be a file listed in your repository named _config.yml.
 23. Click on _config.yml to open it.
-24. Click the pencil icon located on the right side of the page to edit the _config.yml file.
-25. Add your name as the title by adding "title: _`<Your full name>`_" on a new line.
-26. Add a description under your name by adding "description: _`<Your description>`_" on a new line.
+24. Click the pencil icon located on the right side of the current page to edit the _config.yml file.
+25. Set your name as the title by adding "title: _`<Your full name>`_" onto a new line.
+26. Add a description under your name by adding "description: _`<Your description>`_" onto a new line.
 
 ![Set Config File](https://i.imgur.com/LeyEGI2.gif)
 
@@ -169,7 +169,7 @@ Thank you to the following people who helped with editing:
 * [Daniel Gold](https://github.com/goldDaniel)  
 * [Zack Holmberg](https://github.com/zackholmberg)  
 
-The theme used in my Resume was [Slate](https://github.com/pages-themes/slate). Thank you to [all the contributors](https://github.com/pages-themes/slate/graphs/contributors) that worked on the theme.
+The theme used in my resume was [Slate](https://github.com/pages-themes/slate). Thank you to [all the contributors](https://github.com/pages-themes/slate/graphs/contributors) that worked on the theme.
 
 ---
 ## FAQs
@@ -184,4 +184,4 @@ The theme used in my Resume was [Slate](https://github.com/pages-themes/slate). 
 
 ### What do I do if I already have a website hosted on https://_`<MyUsername>`_.github.io/?
 
-> If your default GitHub Pages URL is already being used, you can name your branch whatever you prefer. For example, you could name the repository "Resume". In your "Resume" repository, go to the GitHub Pages section of the settings. You can enable the webpage by changing the branch used from "None" to "Master branch". Now you can access your resume webpage via https://_`<YourUsername>`_.github.io/Resume.
+> If your default GitHub Pages URL is already being used, you can name your branch whatever you prefer. For example, you could name the repository "Resume". In your "Resume" repository, go to the GitHub Pages section of the settings. You can enable the webpage by changing the branch used from "None" to "Master branch". You can now access your resume webpage via https://_`<YourUsername>`_.github.io/Resume.
