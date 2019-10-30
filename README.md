@@ -17,7 +17,7 @@ Sections within this guide:
 ---
 ## Audience  
 
-This guide is intended for people who are new to using Markdown, GitHub Pages, and Jekyll. Experience with GitHub is not required, but it is recommended. Familiarity with the GitHub's web interface will make the process faster.
+This guide is intended for people who are new to using Markdown, GitHub Pages, and Jekyll. Experience with GitHub is not required, but it is recommended. Familiarity with GitHub's web interface will be an asset.
 
 ---  
 ## Getting Started
