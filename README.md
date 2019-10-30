@@ -184,4 +184,4 @@ The theme used in my Resume was [Slate](https://github.com/pages-themes/slate). 
 
 ### What do I do if I already have a website hosted on https://_`<MyUsername>`_.github.io/?
 
-> If your default GitHub Pages URL is already being used, you can name your branch whatever you prefer. For example, you could name the repository "Resume". In your "Resume" repository, go to the GitHub Pages section of the settings. You can enable the webpage by changing the branch used from "None" to "Master branch". Now you can access your resume webpage via "https://_`<YourUsername>`_.github.io/Resume".
+> If your default GitHub Pages URL is already being used, you can name your branch whatever you prefer. For example, you could name the repository "Resume". In your "Resume" repository, go to the GitHub Pages section of the settings. You can enable the webpage by changing the branch used from "None" to "Master branch". Now you can access your resume webpage via https://_`<YourUsername>`_.github.io/Resume.
