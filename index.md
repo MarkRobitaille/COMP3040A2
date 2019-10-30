@@ -36,7 +36,7 @@
 * Delegated tasks to a small team to accomplish goals efficiently within a time constraint.
 * Resolved problems as they occurred by engaging with customers on a personal basis to ensure their satisfaction.
 
-## **ACADEMIC PROJECT EXPERIENCE**  
+## **ACADEMIC PROJECT**  
 ### **Fitness and Health Diary**, Software Engineering 1 - _Winter 2019_
 * Developed an Android application as a team using version control software and agile methodologies.
 
