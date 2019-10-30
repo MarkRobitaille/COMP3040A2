@@ -43,4 +43,4 @@
 ## **EXTRACURRICULAR**  
 ### **Executive in CSSA (Computer Science Students’ Association)**  
 * Coordinates with a team to plan and host events (e.g. CSSA Game Jam, CS Mixer, etc.).
-* Built prototype website for CSSA using Vue.js and Bootstrap-Vue.
+* Built a prototype website for CSSA using Vue.js and Bootstrap-Vue.
