@@ -1,4 +1,4 @@
-# How to Host Your Resume Using Markdown, GitHub Pages, and Jekyll
+# How to Host Your Resume Online Using Markdown, GitHub Pages, and Jekyll
 
 Welcome to this guide on hosting your resume online using GitHub Pages and Markdown. 
 
