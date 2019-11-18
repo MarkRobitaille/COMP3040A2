@@ -128,7 +128,7 @@ Result: Your resume is now hosted on GitHub in a repository. A basic version of 
 
 Finally, this section will cover some basic appearance settings to make your resume fit your style.
 
-17. In your resume's repository, go to the Settings page.
+17. Go to the Settings page in your resume's repository.
 18. Scroll to the GitHub Pages section of the settings. It should be listed near the bottom.
 
 ![Set Theme](https://i.imgur.com/NstQaKS.gif)
